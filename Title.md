@@ -1,8 +1,8 @@
 ### Title
 
-#### Summary
+#### 1 Summary
 
-#### Facts
+#### 2 Facts
 
 ##### Motivation
 
@@ -14,13 +14,13 @@
 
 ##### Key Finding
 
-#### Critical Thinking
+#### 3 Critical Thinking
 
 ##### Advantages
 
 ##### Disadvantages
 
-#### Creative Thinking
+#### 4 Creative Thinking
 
 ##### Other ideas?
 
@@ -28,5 +28,5 @@
 
 ##### Can generalize?
 
-#### What I have learned
+#### 5 What I have learned
 
